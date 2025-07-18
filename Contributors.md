@@ -18,6 +18,7 @@
 - [Aakash Mahajan](https://github.com/AakashMahajan25) - My First Open Source Contribution!
 - [Aman Rohilla](https://github.com/amanrohilla23)
 - [Emanuel Rivera](https://github.com/emanuelRiveraA)
+- [Dashrath Parekar](https://github.com/ErDashrath) -Beginning of my era hehaha 
 - [Vaishnavi Pawar](https://github.com/vaishnavipawar123)
 - [Kumar Sourav](https://github.com/kumarsourav12) - My First Open Source Contribution! Hah !
 - [Shankarjatin](https://github.com/shankarjatin) - My First Open Source Contribution in 2025!
